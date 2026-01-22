@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Makaan/static/css/main.4bb85da1.css",
+    "main.js": "/Makaan/static/js/main.f797bd3d.js",
+    "static/media/about.jpg": "/Makaan/static/media/about.34742c406645c386b134.jpg",
+    "static/media/carousel-1.jpg": "/Makaan/static/media/carousel-1.1297b20051c65b561db7.jpg",
+    "static/media/carousel-2.jpg": "/Makaan/static/media/carousel-2.335bdd28bfa9505b60a8.jpg",
+    "static/media/property-1.jpg": "/Makaan/static/media/property-1.5105d687794f3efbb48d.jpg",
+    "static/media/property-5.jpg": "/Makaan/static/media/property-5.15d91ccb1c2663ef6811.jpg",
+    "static/media/property-3.jpg": "/Makaan/static/media/property-3.540b6791e880880f0901.jpg",
+    "static/media/call-to-action.jpg": "/Makaan/static/media/call-to-action.4e006c4961dbce1f56cf.jpg",
+    "static/media/property-4.jpg": "/Makaan/static/media/property-4.c2163cc4df78138b1328.jpg",
+    "static/media/property-2.jpg": "/Makaan/static/media/property-2.f6ba0266cee5815b9196.jpg",
+    "static/media/property-6.jpg": "/Makaan/static/media/property-6.3c4084344ebdbbd08f89.jpg",
+    "static/media/team-1.jpg": "/Makaan/static/media/team-1.659ee7bb67b1bdfc7ccb.jpg",
+    "index.html": "/Makaan/index.html",
+    "main.4bb85da1.css.map": "/Makaan/static/css/main.4bb85da1.css.map",
+    "main.f797bd3d.js.map": "/Makaan/static/js/main.f797bd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb85da1.css",
+    "static/js/main.f797bd3d.js"
+  ]
+}
