@@ -12,7 +12,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 export default function App(){
 
   return(
-    <BrowserRouter>
+    <BrowserRouter basename="/Makaan_Realestate">
     <Routes>
       <Route element={<Master/>}>
       <Route index element={<Home/>}/>
